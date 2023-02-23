@@ -6,6 +6,8 @@
 
 (一応、[WaybackMachine](https://web.archive.org/web/20221207000645/https://scansnap.fujitsu.com/jp/downloads/model/s1500-1.html) にソフトを含めたアーカイブも存在するのですが、ダウンロードが低速です)
 
+## 含まれているソフトウェア・ドライバ
+[Releases](https://github.com/niflhate/ScanSnapS1500/releases/tag/Download) からダウンロードできます
 - ScanSnap Manager V5.6
 - ScanSnap Organizer V5.6
 - 名刺ファイリングOCR V3.1
